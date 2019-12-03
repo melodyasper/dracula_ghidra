@@ -1,4 +1,4 @@
-Dracula theme Ghidra [Ghidra](https://github.com/NationalSecurityAgency/ghidra)
+Dracula theme for [Ghidra](https://github.com/NationalSecurityAgency/ghidra)
 ==============================================================================
 
 ![dracula_ghidra](/screenshot.png?raw=true)
