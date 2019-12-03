@@ -13,6 +13,3 @@ Also install [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) a
 See [this post](https://gist.github.com/enzinier/8d00d3f37d2e23985dcfa65662d163fa) as an example of how to install Source Code Pro.
 
 
-To install the theme, run the script :
-
-    ./set_colors.py ~/.ghidra/.ghidra-9.0/tools/_code_browser.tcd
